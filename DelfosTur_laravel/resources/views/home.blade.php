@@ -23,7 +23,7 @@
                 </div>
                 <div class="carousel-caption">
                   <h3 class="h3-responsive">Cataratas</h3>
-                  <a href="tienda.html" class="btn btn-primary">Ir a la tienda</a>
+                  <a href="{{ url('tienda') }}" class="btn btn-primary">Ir a la tienda</a>
                 </div>
               </div>
               <div class="carousel-item">
@@ -34,7 +34,7 @@
                 </div>
                 <div class="carousel-caption">
                   <h3 class="h3-responsive">Córdoba</h3>
-                  <a href="tienda.html" class="btn btn-primary">Ir a la tienda</a>
+                  <a href="{{ url('tienda') }}" class="btn btn-primary">Ir a la tienda</a>
                 </div>
               </div>
               <div class="carousel-item">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="carousel-caption">
                   <h3 class="h3-responsive">Mar Del Plata</h3>
-                  <a href="tienda.html" class="btn btn-primary">Ir a la tienda</a>
+                  <a href="{{ url('tienda') }}" class="btn btn-primary">Ir a la tienda</a>
                 </div>
               </div>
             </div>
@@ -78,8 +78,8 @@
                 <div class="card-body">
                     <img class="rounded-circle" src="https://tse4.mm.bing.net/th?id=OIP._T2rAnVRscCzTdeUjidc3gHaHa&pid=Api&P=0&w=300&h=300" alt="Card image cap" width="140" height="140">
                   <h5 class="card-title">Descuentos en hoteles</h5>
-                  <p class="card-text">Por tener acuerdos con ** contamos con precios rebajados en todos sus paquetes.</p>
-                  <a href="tienda.html" class="btn btn-primary">Ir a la tienda</a>
+                  <p class="card-text">Con precios rebajados en todos sus paquetes, mas barato que nunca.</p>
+                  <a href="{{ url('tienda') }}" class="btn btn-primary">Ir a la tienda</a>
                 </div>
               </div>
             </div>
@@ -89,7 +89,7 @@
                     <img class="rounded-circle" src="http://img.freepik.com/free-vector/healthy-food_23-2147526989.jpg?size=338&ext=jpg" alt="Card image cap" width="140" height="140" >
                     <h5 class="card-title">Desayuno y cena gratis</h5>
                     <p class="card-text">Contamos también con opción vegetariana y vegana.</p>
-                    <a href="tienda.html" class="btn btn-primary">Ir a la tienda</a>
+                    <a href="{{ url('tienda') }}" class="btn btn-primary">Ir a la tienda</a>
                   </div>
                 </div>
               </div>
@@ -98,8 +98,8 @@
                   <div class="card-body">
                     <img class="rounded-circle" src="https://tse2.mm.bing.net/th?id=OIP.8-aROLy_dVVk7v6t9LcBcwHaHa&pid=Api&P=0&w=300&h=300" alt="Card image cap" width="140" height="140" >
                     <h5 class="card-title">Solo viajes por Argentina</h5>
-                    <p class="card-text">Para favorecer la economía actual, nuestros paquetes solo incluyen viajes por territorio nacional.</p>
-                    <a href="tienda.html" class="btn btn-primary">Ir a la tienda</a>
+                    <p class="card-text">Para favorecer la economía, solo incluimos viajes por territorio nacional.</p>
+                    <a href="{{ url('tienda') }}" class="btn btn-primary">Ir a la tienda</a>
                   </div>
                 </div>
               </div>

@@ -5,6 +5,8 @@ body {
   min-height: 100vh;
 }
 
+
+
 h1 {
   text-align: center;
   font-size: 2em;
@@ -37,6 +39,7 @@ h5 {
   text-transform: uppercase;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   padding-top: 30px;
+  text-decoration: underline;
 }
 
 #tarjeta {
