@@ -39,7 +39,7 @@
 <div class="card-body">
   <h4 class="card-title">Anna Doe</h4>
   <hr>
-  <p><i class="fas fa-quote-left"></i> Aca va una pequeña reseña de alguno de los viajes. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci.Eos, adipiscLorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisc
+  <p><i class="fas fa-quote-left"></i>Viajé con ellos hace un año, no solo tienen los precios más accesibles sino que también hay buenas ofertas qué renuevan continuamente
   </p>
 </div>
 
@@ -54,7 +54,7 @@
 <div class="card-body">
   <h4 class="card-title">Anna Doe</h4>
   <hr>
-  <p><i class="fas fa-quote-left"></i>Aca va una pequeña reseña de alguno de los viajes. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci
+  <p><i class="fas fa-quote-left"></i>Los volvería a elegir sin dudas. Viajé con ellos a Bariloche y cuando tuve un problema me lo resolvieron al toque. Están siempre atentos a sus redes sociales.
   </p>
 </div>
 
@@ -68,7 +68,7 @@
 <div class="card-body">
   <h4 class="card-title">Anna Doe</h4>
   <hr>
-  <p><i class="fas fa-quote-left"></i> Aca va una pequeña reseña de alguno de los viajes. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci
+  <p><i class="fas fa-quote-left"></i>Al principio dudé por ser una empresa tan pequeña, pero el hotel, la comida, etc, todo fue de muy buena calidad y muy bien organizado en mi viaje a Buenos Aires.
   </p>
 </div>
 @endsection

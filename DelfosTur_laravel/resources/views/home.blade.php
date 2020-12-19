@@ -108,7 +108,7 @@
           <div class="row">
             <div class="col-md-6">
               <h2 class="featurette-heading">Buenos Aires</h2>
-              <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+              <p class="lead">Buenos Aires es el fiel reflejo de quienes vinieron desde lejos para habitar “el nuevo mundo”. En la identidad visual porteña, se entremezclan influencias extranjeras que conforman un todo desigual y apasionante. Tenemos matices españoles, italianos, franceses, ingleses, entre tantos otros. </p>
             </div>
             <div class="col-md-6">
               <img class="featurette-image img-fluid mx-auto" src="https://quieroserlibre.com/wp-content/uploads/2019/10/Caminito-Buenos-Aires-Barrio-de-la-Boca-Argentina.jpg" data-holder-rendered="true">
@@ -117,7 +117,7 @@
           <div class="row">
             <div class="col-md-6">
               <h2>Salta<h2>
-              <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+              <p class="lead">Salta es una ciudad del norte de Argentina, capital de la provincia homónima. Posee una población de 533.303 habitantes (censo 2010), siendo la ciudad más poblada de la provincia, la segunda del NOA y la séptima del país. Constituye un importante polo cultural y turístico. </p>
             </div>
             <div class="col-md-6">
               <img class="featurette-image img-fluid mx-auto" src="https://www.conclusion.com.ar/wp-content/uploads/2015/09/salta-sismo-editada.jpg" data-holder-rendered="true">
